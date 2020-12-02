@@ -1,0 +1,15 @@
+.app {
+  height: 100vh;
+  background: rgb(139, 199, 219);
+}
+
+.tweet {
+  height: 300px;
+  width: 300px;
+  background: white;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
